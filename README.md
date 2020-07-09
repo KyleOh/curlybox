@@ -3,7 +3,7 @@ Curlybox gives you `busybox` image with `curl` command.
 
 ## Build
 ```bash
-$ docker build curlybox .
+$ docker build -t curlybox:latest .
 ```
 
 ## Usecase
