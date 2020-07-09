@@ -1,6 +1,9 @@
 # Curlybox
 Curlybox gives you `busybox` image with `curl` command.
 
+## Dockerfile
+Check out the Dockerfile [here](https://github.com/KyleOh/curlybox/blob/master/Dockerfile)!
+
 ## Build
 ```bash
 $ docker build -t curlybox:latest .
